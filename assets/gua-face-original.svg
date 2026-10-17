@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1020" viewBox="0 0 1400 1020"><rect width="1400" height="1020" fill="#F3EEE4"/>
+<rect x="34" y="34" width="1332" height="952" rx="26" fill="none" stroke="#1A2834" stroke-opacity=".12" stroke-width="2"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#3F6B5C"/></marker></defs>
+
+<text x="90" y="118" font-family="'Noto Serif TC','Noto Sans TC',serif" font-size="44" font-weight="600" fill="#1A2834">面部全息穴區示意</text>
+<text x="92" y="162" font-family="'Noto Sans TC',sans-serif" font-size="21" fill="#1A2834" fill-opacity=".55">簡化示意 · 只按面部分區標示</text>
+
+<path d="M700 235 C830 235 915 350 910 540 C905 700 815 845 700 850 C585 845 495 700 490 540 C485 350 570 235 700 235 Z" fill="#FBF8F0" stroke="#1A2834" stroke-width="3.5"/>
+<path d="M490 520 q-38 8 -30 62 q6 42 38 48" fill="none" stroke="#1A2834" stroke-width="3"/>
+<path d="M910 520 q38 8 30 62 q-6 42 -38 48" fill="none" stroke="#1A2834" stroke-width="3"/>
+<path d="M565 448 Q620 428 678 445" fill="none" stroke="#1A2834" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M722 445 Q780 428 835 448" fill="none" stroke="#1A2834" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M572 508 Q622 528 672 508" fill="none" stroke="#1A2834" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M728 508 Q778 528 828 508" fill="none" stroke="#1A2834" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M702 515 Q694 585 682 628 Q700 642 720 630" fill="none" stroke="#1A2834" stroke-width="3" stroke-linecap="round"/>
+<path d="M648 718 Q675 702 700 718 Q725 702 752 718 Q725 742 700 736 Q675 742 648 718 Z" fill="none" stroke="#1A2834" stroke-width="3" stroke-linejoin="round"/>
+
+<ellipse cx="700" cy="330" rx="150" ry="72" fill="#3F6B5C" fill-opacity=".16"/>
+<ellipse cx="700" cy="452" rx="62" ry="26" fill="#1A2834" fill-opacity=".12"/>
+<path d="M684 500 L716 500 L724 632 Q700 646 676 632 Z" fill="#1A2834" fill-opacity=".16"/>
+<ellipse cx="575" cy="625" rx="82" ry="60" fill="#3F6B5C" fill-opacity=".15"/>
+<ellipse cx="825" cy="625" rx="82" ry="60" fill="#3F6B5C" fill-opacity=".15"/>
+<ellipse cx="700" cy="722" rx="66" ry="26" fill="#3F6B5C" fill-opacity=".13"/>
+<ellipse cx="700" cy="792" rx="72" ry="34" fill="#1A2834" fill-opacity=".13"/>
+<line x1="700" y1="300" x2="700" y2="207" stroke="#3F6B5C" stroke-width="1.5" stroke-opacity=".6"/><circle cx="700" cy="300" r="5" fill="#3F6B5C"/><text x="700" y="215" font-family="'Noto Sans TC',sans-serif" font-size="27" fill="#1A2834" text-anchor="middle">額</text><line x1="700" y1="452" x2="835" y2="437" stroke="#3F6B5C" stroke-width="1.5" stroke-opacity=".6"/><circle cx="700" cy="452" r="5" fill="#3F6B5C"/><text x="835" y="445" font-family="'Noto Sans TC',sans-serif" font-size="27" fill="#1A2834" text-anchor="start">眉間</text><line x1="700" y1="565" x2="855" y2="567" stroke="#3F6B5C" stroke-width="1.5" stroke-opacity=".6"/><circle cx="700" cy="565" r="5" fill="#3F6B5C"/><text x="855" y="575" font-family="'Noto Sans TC',sans-serif" font-size="27" fill="#1A2834" text-anchor="start">鼻</text><line x1="575" y1="625" x2="395" y2="622" stroke="#3F6B5C" stroke-width="1.5" stroke-opacity=".6"/><circle cx="575" cy="625" r="5" fill="#3F6B5C"/><text x="395" y="630" font-family="'Noto Sans TC',sans-serif" font-size="27" fill="#1A2834" text-anchor="end">左頰</text><line x1="825" y1="625" x2="1005" y2="622" stroke="#3F6B5C" stroke-width="1.5" stroke-opacity=".6"/><circle cx="825" cy="625" r="5" fill="#3F6B5C"/><text x="1005" y="630" font-family="'Noto Sans TC',sans-serif" font-size="27" fill="#1A2834" text-anchor="start">右頰</text><line x1="700" y1="722" x2="845" y2="720" stroke="#3F6B5C" stroke-width="1.5" stroke-opacity=".6"/><circle cx="700" cy="722" r="5" fill="#3F6B5C"/><text x="845" y="728" font-family="'Noto Sans TC',sans-serif" font-size="27" fill="#1A2834" text-anchor="start">唇周</text><line x1="700" y1="792" x2="700" y2="877" stroke="#3F6B5C" stroke-width="1.5" stroke-opacity=".6"/><circle cx="700" cy="792" r="5" fill="#3F6B5C"/><text x="700" y="885" font-family="'Noto Sans TC',sans-serif" font-size="27" fill="#1A2834" text-anchor="middle">下巴</text>
+<text x="92" y="945" font-family="'Noto Sans TC',sans-serif" font-size="20" fill="#1A2834" fill-opacity=".5">面部分區與臟腑對應屬傳統說法；本圖只作文化與位置參考，不能代替醫師面診。</text>
+<text x="92" y="975" font-family="'Noto Sans TC',sans-serif" font-size="20" fill="#1A2834" fill-opacity=".5">是否適合刮痧，請先由中醫師評估。</text>
+</svg>
